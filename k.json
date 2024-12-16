@@ -1,11 +1,11 @@
 {
-    "Yhteystiedot": {
-        "Nimi": "Robabe Gouhäri",
-        "Puhelinnumero": "0452492811",
-        "Sähköposti": "Robabe.gouhari@gmail.com",
-            "Osoite":"Hopeatie 16 B 103",
-            "Postinumeo":"00440",
-            "Postitoimipaikka":"Helsinki"
+    "yhteystiedot": {
+        "nimi": "Robabe Gouhäri",
+        "puhelinnumero": "0452492811",
+        "sähköposti": "Robabe.gouhari@gmail.com",
+            "osoite":"Hopeatie 16 B 103",
+            "postinumeo":"00440",
+            "postitoimipaikka":"Helsinki"
 
         }
         
